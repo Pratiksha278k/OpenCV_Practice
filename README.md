@@ -1,1 +1,1 @@
-# OpenCV_Project
+# OpenCV - Playing with Images and videos
